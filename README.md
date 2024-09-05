@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alhazeemd
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning and enrolling Data Engineering 101 bootcamp @ Kotak Sakti
-- 💞️ I’m looking to collaborate on any data analytics project
 - 📫 email: aldanishhazeem@gmail.com
 
 
